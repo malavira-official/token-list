@@ -1,0 +1,20 @@
+{
+  "chainId": 101,
+  "address": "3h1M3VaminUTasYJZP1XGBQPjYhyEenbZnbDt3EmxqjU",
+  "symbol": "MVALUTA",
+  "name": "M‑VALUTA",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/malavira-official/token-list/main/assets/mainnet/3h1M3VaminUTasYJZP1XGBQPjYhyEenbZnbDt3EmxqjU/logo.png",
+  "tags": [
+    "community",
+    "malavira",
+    "symbolisch"
+  ],
+  "extensions": {
+    "website": "https://malavira.nl",
+    "twitter": "https://x.com/MaValuta",
+    "description": "M‑VALUTA is een symbolische munt uit het Malavira-universum. Geen koers, geen belofte. Alleen jij.",
+    "media": "https://malavira-officials.com",
+    "music": "https://leeravonturen.nl"
+  }
+}
